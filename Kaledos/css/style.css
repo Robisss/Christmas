@@ -1,0 +1,69 @@
+#snowflakeContainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.snowflake {
+    padding-left: 15px;
+    font-family: Cambria, Georgia, serif;
+    font-size: 14px;
+    line-height: 24px;
+    position: fixed;
+    color: #FFFFFF;
+    user-select: none;
+    z-index: 1000;
+}
+.snowflake:hover {
+    cursor: default;
+}
+header, footer {
+    padding: 1em;
+    border: 1px dotted #00ffa5;
+    color: blue;
+    background-color: #ade09d;
+    clear: left;
+    text-align: center;
+}
+
+
+img{
+    /*background-color: none;
+    title haver
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 200px;*/
+
+  margin-right:500px;
+  padding-left: 200px;
+  /*padding: 1em;*/
+  overflow: hidden;
+}
+
+    wishes1 {
+    float: left;
+    width: 500px;
+    background-color: none;
+}
+
+/*    wishes2 {
+    float: right;
+    width: 300px;
+    background-color: none;
+}*/
+p,h1{
+  color: blue;
+  padding: 1em;
+  font-style: oblique;
+  font-size: 20px;
+}
+p,h1:hover{
+  color: #ade09d;
+}
+
+ /*h1{
+  color: blue;
+padding: 1em;
+font-style: oblique;
+font-size: 30px;
+}*/
